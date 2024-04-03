@@ -1,0 +1,20 @@
+---
+author: Yufei Sun
+qualifications: PhD Candidate
+# position
+www: adriansun.drhuyue.site
+email: sunyf20@mails.tsinghua.edu.cn
+phone: +86 18813103532
+#signature: sigfile.png
+address:
+  - Mingzhai, Qinghua Yuan
+  - Haidian District
+  - Beijing 100084, China
+opening: "Dear XXX,"
+closing: "Sincerely,"
+linestretch: 1.4
+# ps: 
+format: letter-pdf
+---
+
+This is a template for a letter. 
